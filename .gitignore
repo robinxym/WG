@@ -1,0 +1,4 @@
+/images/full/
+*.html
+__pycache__/
+
